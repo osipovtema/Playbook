@@ -163,7 +163,7 @@ clickhouse-02              : ok=5    changed=0    unreachable=0    failed=0    s
 #### 9. Подготовьте README.md-файл по своему playbook. В нём должно быть описано: что делает playbook, какие у него есть параметры и теги. Пример качественной документации ansible playbook по [ссылке](https://github.com/opensearch-project/ansible-playbook).
 
 Документация:  
-- [README.md](playbook/README.md)
+- README.md
 
 #### 10. Готовый playbook выложите в свой репозиторий.
 
